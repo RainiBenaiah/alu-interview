@@ -1,0 +1,1 @@
+This code first initializes two arrays, left_max and right_max, to store the maximum heights of walls to the left and right of each wall, respectively. Then, it iterates through the list of walls and calculates the amount of water that can be retained between each pair of walls. Finally, it returns the sum of all the water that can be retained.
